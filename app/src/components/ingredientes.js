@@ -19,7 +19,7 @@ export default {
 
             <div id="recetas">
                 <h1 v-if="recetaseleccionada">Felicidades, has logrado cocinar un {{ recetaseleccionada }}</h1>
-                <h1 v-else="recetaseleccionada">No se encontró receta</h1>
+                <h1 v-else="recetaseleccionada">No hay receta disponible</h1>
                 
                 <h3 v-if="isselecciona">Ingredientes:</h3>
 
