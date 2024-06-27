@@ -1,0 +1,44 @@
+[
+    {
+        "ingrediente1": { "id": 1 },
+        "ingrediente2": { "id": 2 },
+        "receta": "Arroz con Pollo",
+        "url":"./app/src/img/Arroz con Pollo.PNG"
+    },
+    {
+        "ingrediente1": { "id": 3 },
+        "ingrediente2": { "id": 4 },
+        "receta": "Papa a la Huancaína",
+        "url":"./app/src/img/Papa a la Huancaína.PNG"
+    },
+    {
+        "ingrediente1": { "id": 2 },
+        "ingrediente2": { "id": 4 },
+        "receta": "Ají de Gallina",
+        "url":"./app/src/img/Ají de Gallina.PNG"
+    },
+    {
+        "ingrediente1": { "id": 5 },
+        "ingrediente2": { "id": 6 },
+        "receta": "Ceviche",
+        "url":"./app/src/img/Ceviche.PNG"
+    },
+    {
+        "ingrediente1": { "id": 1 },
+        "ingrediente2": { "id": 3 },
+        "receta": "Arroz a la Huancaina",
+        "url":"./app/src/img/Arroz a la Huancaina.PNG"
+    },
+    {
+        "ingrediente1": { "id": 1 },
+        "ingrediente2": { "id": 4 },
+        "receta": "Arroz al Ají",
+        "url":"./app/src/img/Arroz al Ají.PNG"
+    },
+    {
+        "ingrediente1": { "id": 2 },
+        "ingrediente2": { "id": 6 },
+        "receta": "Pollo al Limón",
+        "url":"./app/src/img/Pollo al Limón.PNG"
+    }
+]
